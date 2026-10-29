@@ -105,6 +105,7 @@ My current learning focus includes:
 ## Certificates
 
 -[SQL Interview Prep Bootcamp](https://credsverse.com/credentials/c5d6785d-6f3d-4156-b5fa-9e856f3a9ef7?preview=1)  (Aug2025) (techTFQ)
+
 -[Data Analytics & Generative AI](https://github.com/bugsBunny20/Data_Analytics_Portfolio/tree/main/Data%20Science%20and%20generative%20AI%20certificates) (Sept 2026) (Skillovilla)
 
 ## Contact
