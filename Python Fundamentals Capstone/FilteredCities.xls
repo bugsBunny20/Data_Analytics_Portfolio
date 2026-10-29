@@ -1,0 +1,6 @@
+ID,First Name,Last Name,City,Age,Designation Level,Project,Cost,Status,Bonus
+A002,Mrs. Alice,Luxumberg,London,27,2,Project 2,2000000.0,Ongoing,0.0
+A002,Mrs. Alice,Luxumberg,London,27,2,Project 6,680000.0,Failed,0.0
+A004,Mrs. Nina,Adgra,Newyork,31,3,Project 4,5500000.0,Ongoing,0.0
+A004,Mrs. Nina,Adgra,Newyork,31,3,Project 12,1000000.0,Ongoing,0.0
+A004,Mrs. Nina,Adgra,Newyork,31,3,Project 13,3000000.0,Finished,150000.0
